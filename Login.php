@@ -60,19 +60,6 @@
         outline: none;
         background: whitesmoke;
         }
-        /* .select{ 
-        position: relative;
-        left: 0px;
-        width: 38%;
-        height: 5px;
-        padding: 15px;
-        margin: 5px 0 15px 0;
-        display: inline-block;
-        border-radius: 10px;
-        outline: none;
-        background: whitesmoke;
-        } */
-        
       
       .Loginbtn {
         position: relative;
